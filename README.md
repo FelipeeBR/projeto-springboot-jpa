@@ -37,6 +37,5 @@ O sistema foi modelado com base em um diagrama UML que define as seguintes entid
 
 ---
 
-## 🛠️ Como Executar Localmente
-
-1. **Clone o repositório:**
+## 🛠️ Diagrama UML
+![diagram](https://github.com/user-attachments/assets/c9a88a28-2721-4510-b6bd-21a4060f7750)
